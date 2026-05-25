@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CafeNoir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|E:\\CafeNoir\\coffeebeaninventory\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|E:\\CafeNoir\\coffeebeaninventory\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|e:\\cafenoir\\coffeebeaninventory\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|e:\\cafenoir\\coffeebeaninventory\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|E:\\CafeNoir\\coffeebeaninventory\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|e:\\cafenoir\\coffeebeaninventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4434E-71E2-41FA-B982-B3D7538B62DE}|CoffeeBeanInventory\\CoffeeBeanInventory.csproj|solutionrelative:coffeebeaninventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryModuleForm.cs",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "RelativeToolTip": "CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:45:57.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\CategoryModuleForm.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\CategoryModuleForm.cs [Design]",
+              "RelativeToolTip": "CoffeeBeanInventory\\CategoryModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:45:52.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\ProductsForm.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\ProductsForm.cs",
+              "RelativeToolTip": "CoffeeBeanInventory\\ProductsForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:02:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\LoginForm.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\LoginForm.cs",
+              "RelativeToolTip": "CoffeeBeanInventory\\LoginForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:11:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\Main.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\Main.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\Main.cs",
+              "RelativeToolTip": "CoffeeBeanInventory\\Main.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:37:34.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CafeNoir\\CoffeeBeanInventory\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeBeanInventory\\Program.cs",
+              "ToolTip": "E:\\CafeNoir\\CoffeeBeanInventory\\Program.cs",
+              "RelativeToolTip": "CoffeeBeanInventory\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:45:52.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
